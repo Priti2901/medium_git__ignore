@@ -1,0 +1,1 @@
+# medium_git__ignore
